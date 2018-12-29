@@ -7,5 +7,6 @@
    4. Train Naive Bayes Model using dataset.
    5. Evaluate Naive Bayes Model.
    6. In order to show more details of Naive Bayes Model, I designed an example to calculate this model.
+   
 ## Result
-<hr> Naive Bayes Model finally achieved accuracy over 98%! If you have any question, please let me know. I am happy to discuss with you guys. 
+<br/> Naive Bayes Model finally achieved accuracy over 98%! If you have any question, please let me know. I am happy to discuss with you guys. 
